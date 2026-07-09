@@ -6,7 +6,7 @@ info:
 
 servers:
   - description: Development
-    url: "http://localhost:8082"
+    url: "http://localhost:8082/"
   - description: Production
     url: "https://api.algashop.com"
 
@@ -495,3 +495,4 @@ components:
         tokenizedCard:
           type: string
           example: "14d8b3dc5aff"
+    
